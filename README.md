@@ -13,6 +13,6 @@ The project successfully delivered a functional uneven seven-sided dice roller t
 
  - clksignalgenerator file is used to generate clock frequency that is 400 Hz in ARDUINO.
  - veriokuma file is used for reading the datas in ARDUINO.
- - Codes file codes are used to show  graphically outputs in MATLAB.
+ - Uneven_sided_dice_roller file codes are used to show  graphically outputs in MATLAB.
 
 
